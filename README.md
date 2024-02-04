@@ -2,7 +2,7 @@
 
 This repository contains image classification on two common datasets **(CIFAR-10 and MNIST datasets)** using the `LeNet-5` architecture.It includes data loading, model definition, training, evaluation metrics, and visualizations.
 
-## Key Points:
+## Overview:
 
 1. **Data Loading and Exploration:**
    - CIFAR-10 and MNIST datasets are loaded using TensorFlow's Keras API.
