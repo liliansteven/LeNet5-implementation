@@ -1,4 +1,4 @@
-# Convolutional Neural Networks for CIFAR-10 and MNIST
+# Image Classification using LeNet-5 Model.
 
 This repository contains image classification on two common datasets **(CIFAR-10 and MNIST datasets)** using the `LeNet-5` architecture.It includes data loading, model definition, training, evaluation metrics, and visualizations.
 
