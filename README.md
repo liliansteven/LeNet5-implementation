@@ -11,7 +11,7 @@ This repository contains image classification on two common datasets **(CIFAR-10
    - Sample images from CIFAR-10 and MNIST are visualized .
 
 3. **Model Architecture:**
-   - Utilizes the LeNet-5 architecture to accomplish image classification tasks for CIFAR-10 and MNIST using the Sequential API.
+   - Utilizes the `LeNet-5 architecture` to accomplish image classification tasks for CIFAR-10 and MNIST.
    - Different input shapes are used for RGB images (CIFAR-10) and grayscale images (MNIST).
 
 3. **Evaluation Metrics and Confusion Matrices:**
